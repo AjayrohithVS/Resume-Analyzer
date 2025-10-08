@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+python-docx
+pdfminer.six
+scikit-learn
+pandas
+google-generativeai
+python-dotenv
